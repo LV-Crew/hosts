@@ -1,7 +1,7 @@
 ﻿# --PP--Crew_(-PP-)_-_Release_-_hosts_-_CP.Downloads.txt
 # (C)reated by: --PP--Crew (-PP-)
 # From        : x-qubic (x3)
-# Version (At): v2016-09-02
+# Version (At): v2017-10-31
 
 # Download-Folder-URL: http://preview.tinyurl.com/PP-files -> \own_stuff\--PP--Crew_(-PP-)_-_Release_-_hosts\
 
@@ -118,7 +118,7 @@
 #  SUB-URLS NOT YET LISTED!
 
 # Latin-Angel.com - Sets 03:
-http://teenstudentt.blogspot.com/2013/03/latin-angel-set-03.html # Source	# Online on: 2016-08-29
+127.0.0.1	http://teenstudentt.blogspot.com/2013/03/latin-angel-set-03.html # Source	# Online on: 2016-08-29
 #  SUB-URLS NOT YET LISTED!
 
 
