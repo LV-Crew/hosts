@@ -1,0 +1,11 @@
+# LV-Crew.org_(LVC)_-_hosts_-_4_-_Adware.txt
+# (C)reated by: LV-Crew.org (LVC)
+# From        : slim23
+# Version (At): v2017-10-31
+
+# Download-Folder-URL: http://preview.tinyurl.com/LVC-files -> \own_stuff\LV-Crew.org_(LVC)_-_hosts_files\LV-Crew.org_(LVC)_-_hosts\
+
+# Adware-List:
+
+127.0.0.1	tpc.googlesyndication.com
+127.0.0.1	cv.apprupt.com
